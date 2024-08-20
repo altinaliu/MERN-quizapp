@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore build outputs
-client/build/
+
 server/build/
 
 # Ignore environment variables
